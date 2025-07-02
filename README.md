@@ -59,7 +59,7 @@ The project joins together the following CSVs:
 - 📈 Sales & Growth
   YTD sales grew consistently from ~$28k in 2021 to ~$46k in 2024.
 
-Indicates growing demand and strong sales momentum.
+  Indicates growing demand and strong sales momentum.
 
 - 🌎 State & Regional Performance
   The Pacific region led the US in both profit and sales in 2024.
