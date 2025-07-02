@@ -102,4 +102,3 @@ The project joins together the following CSVs:
 - Final Interactive Dashboard
 
   https://public.tableau.com/app/profile/nik.patel2467/viz/CandyStoreViz/SalesvsTargetbyDivision
-  https://public.tableau.com/app/profile/nik.patel2467/viz/CandyStoreViz/SalesvsTargetbyDivision
