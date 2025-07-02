@@ -1,92 +1,92 @@
-📊 US Candy Distribution Analysis (2021–2024)
+## 📊 US Candy Distribution Analysis (2021–2024)
 This project explores sales data from a US-based candy distributor across four years (2021 to 2024). Using SQL and Tableau, I examined business performance across products, divisions, states, and factories to deliver meaningful insights to stakeholders.
 
-🔍 Objectives
+# 🔍 Objectives
 The main goal was to answer key business questions, including:
 
-How have total year-to-date sales changed from 2021 to 2024?
+- How have total year-to-date sales changed from 2021 to 2024?
 
-Which US states generated the most profit from non-chocolate sales?
+- Which US states generated the most profit from non-chocolate sales?
 
-Did each product division meet its 2024 sales target?
+- Did each product division meet its 2024 sales target?
 
-What were the best and worst-performing chocolate products in 2024?
+- What were the best and worst-performing chocolate products in 2024?
 
-Which factory and state combinations led in gross profit or underperformed?
+- Which factory and state combinations led in gross profit or underperformed?
 
-🧮 Tools Used
+# 🧮 Tools Used
 SQL (MySQL): To clean, query, and analyse the dataset
 
 Tableau: For data visualisation and stakeholder reporting
 
 Excel: For light data inspection and data dictionary reference
 
-📁 Datasets Used
+# 📁 Datasets Used
 The project joins together the following CSVs:
 
-Candy_Sales.csv – transaction-level sales data
+- Candy_Sales.csv – transaction-level sales data
 
-Candy_Products.csv – product metadata
+- Candy_Products.csv – product metadata
 
-Candy_Targets.csv – 2024 sales targets by division
+- Candy_Targets.csv – 2024 sales targets by division
 
-Candy_Factories.csv – factory location and mapping
+- Candy_Factories.csv – factory location and mapping
 
-uszips.csv – US ZIP code to state/region mapping
+- uszips.csv – US ZIP code to state/region mapping
 
-🧠 Key Business Questions Answered
-Year-to-date sales trend from 2021 to 2024
+# 🧠 Key Business Questions Answered
+1.Year-to-date sales trend from 2021 to 2024
 
-Top-performing US states for non-chocolate sales and margins
+2.Top-performing US states for non-chocolate sales and margins
 
-Five states with the highest non-chocolate gross profit in 2024
+3.Five states with the highest non-chocolate gross profit in 2024
 
-Division-level performance against 2024 sales targets
+4.Division-level performance against 2024 sales targets
 
-Top three chocolate products by gross profit in 2024
+5.Top three chocolate products by gross profit in 2024
 
-Underperforming chocolate products vs division average
+6.Underperforming chocolate products vs division average
 
-Total 2024 sales by product
+7.Total 2024 sales by product
 
-Factory-state combinations with the highest gross profit (Chocolate)
+8.Factory-state combinations with the highest gross profit (Chocolate)
 
-Factory-state combinations with the lowest gross profit (all divisions)
+9.Factory-state combinations with the lowest gross profit (all divisions)
 
-💡 Key Insights for Stakeholders
-📈 Sales & Growth
+# 💡 Key Insights for Stakeholders
+- 📈 Sales & Growth
 YTD sales grew consistently from ~$28k in 2021 to ~$46k in 2024.
 
 Indicates growing demand and strong sales momentum.
 
-🌎 State & Regional Performance
+- 🌎 State & Regional Performance
 The Pacific region led the US in both profit and sales in 2024.
 
 New York, California, and Illinois topped non-chocolate profit, while Ohio and Georgia had the highest margins (~50%).
 
-🎯 Division Performance
+- 🎯 Division Performance
 Chocolate smashed its 2024 target by 57%.
 
 Other division exceeded target by 11%.
 
 Sugar division missed badly, hitting under 1% of its £15k goal.
 
-🍫 Product Breakdown
+- 🍫 Product Breakdown
 Top Performers: Scrumdiddlyumptious, Triple Dazzle Caramel, Milk Chocolate.
 
 Underperformers: Nutty Crunch Surprise and Fudge Mallows underachieved compared to average.
 
-🏭 Factory-Level Results
+- 🏭 Factory-Level Results
 Best: Lot’s O’ Nuts in California generated over £3.6k in profit.
 
 Worst: The Other Factory (Delaware, Alabama) and Sugar Shack (Pennsylvania) produced under £2.
 
-🧁 Product Breadth
+- 🧁 Product Breadth
 Chocolate dominates both in profit and unit sales.
 
 ‘Sugar’ and ‘Other’ divisions brought minimal revenue and require further evaluation.
 
-📊 Tableau Visualisations
+- 📊 Tableau Visualisations
 Sales by Factory & Division (bar)
 
 Sales vs Target by Division (bar + line)
