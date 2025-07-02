@@ -35,23 +35,25 @@ The project joins together the following CSVs:
 - uszips.csv – US ZIP code to state/region mapping
 
 # 🧠 Key Business Questions Answered
-1. Year-to-date sales trend from 2021 to 2024
+1. Gross profit per US region
 
-2. Top-performing US states for non-chocolate sales and margins
+2. Year-to-date sales trend from 2021 to 2024
 
-3. Five states with the highest non-chocolate gross profit in 2024
+3. Top-performing US states for non-chocolate sales and margins
 
-4. Division-level performance against 2024 sales targets
+4. Five states with the highest non-chocolate gross profit in 2024
 
-5. Top three chocolate products by gross profit in 2024
+5. Division-level performance against 2024 sales targets
 
-6. Underperforming chocolate products vs division average
+6. The top three chocolate products by gross profit in 2024
 
-7. Total 2024 sales by product
+7. Underperforming chocolate products vs division average
 
-8. Factory-state combinations with the highest gross profit (Chocolate)
+8. Total 2024 sales by product
 
-9. Factory-state combinations with the lowest gross profit (all divisions)
+9. Factory-state combinations with the highest gross profit (Chocolate)
+
+10. Factory-state combinations with the lowest gross profit (all divisions)
 
 # 💡 Key Insights for Stakeholders
 - 📈 Sales & Growth
