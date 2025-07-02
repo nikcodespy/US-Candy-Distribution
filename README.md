@@ -35,66 +35,66 @@ The project joins together the following CSVs:
 - uszips.csv – US ZIP code to state/region mapping
 
 # 🧠 Key Business Questions Answered
-1.Year-to-date sales trend from 2021 to 2024
+1. Year-to-date sales trend from 2021 to 2024
 
-2.Top-performing US states for non-chocolate sales and margins
+2. Top-performing US states for non-chocolate sales and margins
 
-3.Five states with the highest non-chocolate gross profit in 2024
+3. Five states with the highest non-chocolate gross profit in 2024
 
-4.Division-level performance against 2024 sales targets
+4. Division-level performance against 2024 sales targets
 
-5.Top three chocolate products by gross profit in 2024
+5. Top three chocolate products by gross profit in 2024
 
-6.Underperforming chocolate products vs division average
+6. Underperforming chocolate products vs division average
 
-7.Total 2024 sales by product
+7. Total 2024 sales by product
 
-8.Factory-state combinations with the highest gross profit (Chocolate)
+8. Factory-state combinations with the highest gross profit (Chocolate)
 
-9.Factory-state combinations with the lowest gross profit (all divisions)
+9. Factory-state combinations with the lowest gross profit (all divisions)
 
 # 💡 Key Insights for Stakeholders
 - 📈 Sales & Growth
-YTD sales grew consistently from ~$28k in 2021 to ~$46k in 2024.
+  YTD sales grew consistently from ~$28k in 2021 to ~$46k in 2024.
 
 Indicates growing demand and strong sales momentum.
 
 - 🌎 State & Regional Performance
-The Pacific region led the US in both profit and sales in 2024.
+  The Pacific region led the US in both profit and sales in 2024.
 
-New York, California, and Illinois topped non-chocolate profit, while Ohio and Georgia had the highest margins (~50%).
+  New York, California, and Illinois topped non-chocolate profit, while Ohio and Georgia had the highest margins (~50%).
 
 - 🎯 Division Performance
-Chocolate smashed its 2024 target by 57%.
+  Chocolate smashed its 2024 target by 57%.
 
-Other division exceeded target by 11%.
+  The other division exceeded the target by 11%.
 
-Sugar division missed badly, hitting under 1% of its £15k goal.
+  Sugar division missed badly, hitting under 1% of its £15k goal.
 
 - 🍫 Product Breakdown
-Top Performers: Scrumdiddlyumptious, Triple Dazzle Caramel, Milk Chocolate.
+  Top Performers: Scrumdiddlyumptious, Triple Dazzle Caramel, Milk Chocolate.
 
-Underperformers: Nutty Crunch Surprise and Fudge Mallows underachieved compared to average.
+  Underperformers: Nutty Crunch Surprise and Fudge Mallows underachieved compared to the average.
 
 - 🏭 Factory-Level Results
-Best: Lot’s O’ Nuts in California generated over £3.6k in profit.
+  Best: Lot’s O’ Nuts in California generated over £3.6k in profit.
 
-Worst: The Other Factory (Delaware, Alabama) and Sugar Shack (Pennsylvania) produced under £2.
+  Worst: The Other Factory (Delaware, Alabama) and Sugar Shack (Pennsylvania) produced under £2.
 
 - 🧁 Product Breadth
-Chocolate dominates both in profit and unit sales.
+  Chocolate dominates both in profit and unit sales.
 
-‘Sugar’ and ‘Other’ divisions brought minimal revenue and require further evaluation.
+  ‘Sugar’ and ‘Other’ divisions brought minimal revenue and require further evaluation.
 
-- 📊 Tableau Visualisations
-Sales by Factory & Division (bar)
+# 📊 Tableau Visualisations
+- Sales by Factory & Division (bar)
 
-Sales vs Target by Division (bar + line)
+- Sales vs Target by Division (bar + line)
 
-Monthly Sales Trend by Division (line)
+- Monthly Sales Trend by Division (line)
 
-Sales by US State (map)
+- Sales by US State (map)
 
-KPI cards
+- KPI cards
 
-Final Interactive Dashboard
+- Final Interactive Dashboard
